@@ -19,3 +19,4 @@ class Student:
 
 student1 = Student.getInputFromUser()
 student1.displayStudentData()
+
